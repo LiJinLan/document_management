@@ -1,0 +1,30 @@
+#rightmenu {
+	height: auto;
+	
+	
+}
+#rightmenu ul {
+	width: 100%;
+	float: left;
+	
+}
+#rightmenu ul li {
+	width: 92%;
+	height: 50px;
+	line-height:50px;
+	list-style: none;
+	background-color: rgba(81,182,254,.7);
+	margin: 0 auto;
+	margin-top: 10px;
+	text-align: center;
+	color: white;
+	border-radius:5px;
+	font-size:16px;
+	cursor: pointer;
+}
+
+#rightmenu .activeMenu {
+	background-color: white;
+	color: rgb(53, 171, 228);
+	box-shadow: 3px 1px 4px 2px rgba(171,171,171,0.83);
+}

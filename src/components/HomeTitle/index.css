@@ -1,0 +1,45 @@
+.title_left {
+	width: 80%;
+    height: 60px;
+    float: left;
+    padding-left: 76px;
+}
+
+.title_left h1 {
+	line-height: 60px;
+    color: white;
+}
+.title_right {
+	width: 20%;
+	height: 60px;
+	float: left;
+}
+.icon_border {
+	width: 40px;
+    height: 40px;
+    margin: 10px auto;
+}
+.iconTitle {
+	background-image: url('./iconTitle.png');
+	display: inline-block;
+}
+.userChoice {
+    width: 76px;
+    height: 68px;
+    background-color: white;
+    float: left;
+    position: absolute;
+    margin-top: 6px;
+    border-radius: 5px;
+    z-index: 999;
+    
+}
+.userChoice li {
+    padding:5px 10px;
+    list-style: none;
+    color: black;
+    cursor: pointer;
+}
+.userChoice li:hover{
+    background: #bfb9b9;
+}

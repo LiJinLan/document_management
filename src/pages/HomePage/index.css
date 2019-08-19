@@ -1,0 +1,29 @@
+.home_title {
+	width: 100%;
+	height: 60px;
+	background: rgba(81,182,254,.7);
+}
+.left_Menu {
+	width: 16%;
+    min-height: 376px;
+    float: left;
+}
+.right_info {
+    width: 81%;
+    min-height: 376px;
+    float: left;
+    margin-left: 20px;
+}
+.home_content {
+    width: 100%;
+    height:300px;
+}
+.banner {
+    width: 100%;
+    height:312px;
+}
+.home_text {
+    width: 100%;
+    height:100px;
+    margin-top:20px;
+}

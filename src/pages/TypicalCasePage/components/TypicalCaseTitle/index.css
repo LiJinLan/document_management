@@ -1,0 +1,28 @@
+#case-title {
+	width: 100%;
+	height: 65px;	
+	background-color: rgb(231,246,257);
+	padding: 12px;
+}
+#case-title-left {
+	width: 30%;
+    height: 100%;
+   
+    float: left;
+    font-size: 19px;
+    line-height: 40px;
+    font-weight: bold;
+    border-left: 8px solid rgb(58, 180, 254);
+    padding-left: 11px;
+    color: black;
+}
+#case-title-right {
+	width: 70%;
+	height: 100%;
+	
+	float: left;
+}
+#caseBtn {
+	float: right;
+	margin-top: 5px;
+}

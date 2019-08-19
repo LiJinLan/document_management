@@ -1,0 +1,60 @@
+#groups {
+	width: 100%;
+	min-height: 200px;
+	
+}
+
+#groups-text {
+	width: 100%;
+	padding: 20px;
+}
+
+.groupPartners {
+	width: 100%;
+	min-height:300px;
+	
+}
+
+.groupPartners ul {
+	float: left;
+}
+
+.groupPartners ul li {
+	width: 210px;
+	height: 270px;
+	float: left;
+	background-color: rgb(238, 238, 238);
+	border-radius: 5px;
+	margin: 11px;
+	list-style: none;
+	padding:13px;
+}
+
+.personIcon {
+	width:100%;
+	height:76px;
+	
+}
+
+.icon {
+	width: 60px;
+    height: 60px;
+    background-color: white;
+    float: left;
+    border-radius: 50%;
+}
+.jobPosition {
+	width: 77px;
+    height: 24px;
+    background-color: rgb(118, 204, 253);
+    float: right;
+    border-radius: 5px;
+    font-size: 14px;
+    color: white;
+    
+    line-height: 23px;
+    text-align: center;
+}
+.personName {
+	font-weight:bold;
+}

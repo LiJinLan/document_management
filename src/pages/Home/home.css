@@ -1,0 +1,23 @@
+#home-container {
+    /*background-color: grey;*/
+}
+
+.left-menu {
+	float: left
+}
+
+.right-content {
+	position: relative;
+	float: left;
+	left: 45px;
+	width: 84%;
+}
+
+.home-introduce {
+	position: relative;
+	float: left;
+	top: 345px;
+	width: 97%;
+	margin-left: 20px;
+	font-size: bold;
+}
